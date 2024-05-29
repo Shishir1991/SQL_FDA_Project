@@ -1,4 +1,4 @@
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/38800271-a870-4b49-9816-35e7e57a2141)# SQL Data Analysis and Visualization with Power BI for FDA
+# SQL Data Analysis and Visualization with Power BI for FDA
 
 ## Table of Contents
 - [Description](#description)
