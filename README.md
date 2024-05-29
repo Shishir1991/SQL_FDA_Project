@@ -57,37 +57,37 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 #### Task 2: Segmentation Analysis Based on Drug MarketingStatus
 1. Group products based on MarketingStatus. Provide meaningful insights into the segmentation patterns.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/79b64a3e-56da-4155-b6ed-ec1a7d2c235b)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/fc9c060c-1995-4fe4-98de-e06908155c14)
 
 2. Calculate the total number of applications for each MarketingStatus year-wise after the year 2010.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/8378c5e1-5ab0-406c-b2d0-a8939147d14d)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/f8b5d41e-4c91-47d4-937a-75b9d4ee22f8)
    
 3. Identify the top MarketingStatus with the maximum number of applications and analyze its trend over time.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/620031dd-0a8e-41ae-8102-aee5492823d6)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/0bf81e4b-252f-47d4-af29-15c3fba7c5fe)
 
 #### Task 3: Analyzing Products
 1. Categorize products by dosage form and analyze their distribution.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/f8dd4cda-e9b4-4ff4-8e27-d9ad3b13469a)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/19339c2f-214c-44ea-8e69-84b6fea5e5f3)
    
 2. Calculate the total number of approvals for each dosage form and identify the most successful forms.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/42eac6cc-6540-48c4-96b9-66f70f177aaf)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/0c573ba2-3eea-4452-ae24-5b6e1ec8ac75)
    
 3. Investigate yearly trends related to successful forms.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/e5cc5f02-f705-48c9-944c-2916a4b67c68)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/261d7044-5da5-498e-bd8d-d7aaff771cb2)
 
 #### Task 4: Exploring Therapeutic Classes and Approval Trends
 1. Analyze drug approvals based on therapeutic evaluation code (TE_Code).
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/052713ce-f256-4ef9-98aa-ec1d02621d02)  
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/8883bab0-ddfb-4f1b-96b1-99769b172300)
 
 2. Determine the therapeutic evaluation code (TE_Code) with the highest number of approvals in each year.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/fb391428-37d9-4e6b-b2d0-baaf86fda105) 
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/62fe0dd8-a59d-4ccc-91c9-1a40c0fddfe4)
 
 ### Part 2: Power BI Visualizations
 1. Visualize the yearly approval trends of drugs. Highlight any significant patterns and/or fluctuations, if any.
