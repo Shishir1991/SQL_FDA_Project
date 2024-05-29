@@ -24,7 +24,7 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 
 ## Data Schema
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/9047a106-8a42-42f7-9c75-57de0d36a03e)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/9047a106-8a42-42f7-9c75-57de0d36a03e)
 
 ## Software/Tools
 
@@ -38,56 +38,56 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 #### Task 1: Identifying Approval Trends
 1. Determine the number of drugs approved each year and provide insights into the yearly trends.
   
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/ae0ce4e6-fc5a-4eb8-a1e3-89e95e9f7150)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/ae0ce4e6-fc5a-4eb8-a1e3-89e95e9f7150)
 
 2. Identify the top three years that got the highest and lowest approvals, in descending and ascending order, respectively.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/37797abd-c378-44b5-bfe4-99f945b14938)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/37797abd-c378-44b5-bfe4-99f945b14938)
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/60ea88c2-3347-4d11-bfca-f5d90176f640)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/60ea88c2-3347-4d11-bfca-f5d90176f640)
 
 3. Explore approval trends over the years based on sponsors.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/2a834a79-eca3-48b1-8330-9e13a46816d5)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/2a834a79-eca3-48b1-8330-9e13a46816d5)
 
 4. Rank sponsors based on the total number of approvals they received each year between 1939 and 1960.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/3e0245fe-d587-4192-a17c-09e7bff6d606)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/3e0245fe-d587-4192-a17c-09e7bff6d606)
  
 #### Task 2: Segmentation Analysis Based on Drug MarketingStatus
 1. Group products based on MarketingStatus. Provide meaningful insights into the segmentation patterns.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/fc9c060c-1995-4fe4-98de-e06908155c14)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/fc9c060c-1995-4fe4-98de-e06908155c14)
 
 2. Calculate the total number of applications for each MarketingStatus year-wise after the year 2010.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/f8b5d41e-4c91-47d4-937a-75b9d4ee22f8)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/f8b5d41e-4c91-47d4-937a-75b9d4ee22f8)
    
 3. Identify the top MarketingStatus with the maximum number of applications and analyze its trend over time.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/0bf81e4b-252f-47d4-af29-15c3fba7c5fe)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/0bf81e4b-252f-47d4-af29-15c3fba7c5fe)
 
 #### Task 3: Analyzing Products
 1. Categorize products by dosage form and analyze their distribution.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/19339c2f-214c-44ea-8e69-84b6fea5e5f3)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/19339c2f-214c-44ea-8e69-84b6fea5e5f3)
    
 2. Calculate the total number of approvals for each dosage form and identify the most successful forms.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/0c573ba2-3eea-4452-ae24-5b6e1ec8ac75)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/0c573ba2-3eea-4452-ae24-5b6e1ec8ac75)
    
 3. Investigate yearly trends related to successful forms.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/261d7044-5da5-498e-bd8d-d7aaff771cb2)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/261d7044-5da5-498e-bd8d-d7aaff771cb2)
 
 #### Task 4: Exploring Therapeutic Classes and Approval Trends
 1. Analyze drug approvals based on therapeutic evaluation code (TE_Code).
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/8883bab0-ddfb-4f1b-96b1-99769b172300)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/8883bab0-ddfb-4f1b-96b1-99769b172300)
 
 2. Determine the therapeutic evaluation code (TE_Code) with the highest number of approvals in each year.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/62fe0dd8-a59d-4ccc-91c9-1a40c0fddfe4)
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/62fe0dd8-a59d-4ccc-91c9-1a40c0fddfe4)
 
 ### Part 2: Power BI Visualizations
 1. Visualize the yearly approval trends of drugs. Highlight any significant patterns and/or fluctuations, if any.
@@ -104,7 +104,7 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
     git clone https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project.git
     ```
 2. Import the SQL scripts into your MySQL database.
-3. Open the Power BI report file ([FDA_Data_Analysis.pbix](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/blob/main/SQL%20FDA%20Project/FDA_Data_Analysis.pbix)) in Power BI 
+3. Open the Power BI report file ([FDA_Data_Analysis.pbix](https://github.com/shishir1991/FDA_MySQL_Project/blob/main/SQL%20FDA%20Project/FDA_Data_Analysis.pbix)) in Power BI 
    Desktop.
 4. Ensure that you have the necessary data sources available.
 
