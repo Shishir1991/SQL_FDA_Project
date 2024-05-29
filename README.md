@@ -104,7 +104,7 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
     git clone https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project.git
     ```
 2. Import the SQL scripts into your MySQL database.
-3. Open the Power BI report file (`FDA_Data_Analysis.pbix`) in Power BI Desktop.
+3. Open the Power BI report file [FDA_Data_Analysis.pbix](#FDA-Data-Analysis.pbix) in Power BI Desktop.
 4. Ensure that you have the necessary data sources available.
 
 
