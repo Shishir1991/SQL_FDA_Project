@@ -42,7 +42,7 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 
 2. Identify the top three years that got the highest and lowest approvals, in descending and ascending order, respectively.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/62572e90-40bb-4a14-a182-56f50d24df2f)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/37797abd-c378-44b5-bfe4-99f945b14938)
 
 ![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/60ea88c2-3347-4d11-bfca-f5d90176f640)
 
@@ -52,8 +52,8 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 
 4. Rank sponsors based on the total number of approvals they received each year between 1939 and 1960.
 
-![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/750e875d-b4e5-4ebc-8872-825d7312b526)  
-
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/3e0245fe-d587-4192-a17c-09e7bff6d606)
+ 
 #### Task 2: Segmentation Analysis Based on Drug MarketingStatus
 1. Group products based on MarketingStatus. Provide meaningful insights into the segmentation patterns.
 
