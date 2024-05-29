@@ -128,10 +128,9 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 ## Screenshots
 
 ### Power BI Report
-![Yearly Approval Trends](![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/a0902ede-1b72-4a07-ad83-6a53516ac7ea))
+(![Yearly Approval Trends](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/a0902ede-1b72-4a07-ad83-6a53516ac7ea))
 
 As per the Statistics, the approved drugs are highest in the year 2002 i.e. 5661. The total count of Drugs is 129.07K. From year 1939 to 2016 which includes Both AP and TA ( Tentative Drugs).
-![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/c56e12b8-2231-46b2-ac53-348bd1de2f66)
 
 ![Sponsor Trends](screenshots/sponsor_trends.png)
 ![MarketingStatus Segmentation](screenshots/marketingstatus_segmentation.png)
