@@ -112,6 +112,17 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 
 - MySQL
 - Power BI Desktop
-- Data source files (`FDA_Dataset.sql`)
+- Data source files ([FDA_Dataset](https://github.com/shishir1991/FDA_MySQL_Project/tree/main/SQL%20FDA%20Project))
+
+## Usage
+
+1. Import the SQL scripts into your MySQL database to set up the data.
+2. Open the `FDA_Data_Analysis.pbix` file in Power BI Desktop.
+3. Navigate through the different pages of the report to explore various insights:
+    - **Approval Trends**: Yearly approval trends of drugs.
+    - **Sponsor Trends**: Approval trends based on different sponsors.
+    - **MarketingStatus Segmentation**: Segmentation of products based on MarketingStatus.
+    - **Dosage Form Analysis**: Distribution and success of different dosage forms.
+    - **Therapeutic Classes**: Approvals based on therapeutic classes.
 
 
