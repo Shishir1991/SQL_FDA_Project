@@ -38,11 +38,17 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 1. Determine the number of drugs approved each year and provide insights into the yearly trends.
    
    SELECT YEAR(ActionDate) AS approval_year, COUNT(*) AS num_drugs_approved
-      FROM regactiondate
-      GROUP BY approval_year
-      ORDER BY approval_year;
+   
+   FROM regactiondate
+   
+   GROUP BY approval_year
+   
+   ORDER BY approval_year;
 
-2. Identify the top three years that got the highest and lowest approvals, in descending and ascending order, respectively.
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/0d41983b-6e41-49b5-96b1-7b1fd37a9271)
+
+
+3. Identify the top three years that got the highest and lowest approvals, in descending and ascending order, respectively.
 
     SELECT YEAR(ActionDate) AS approval_year, COUNT(*) AS num_drugs_approved
     FROM regactiondate
@@ -56,7 +62,7 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
     ORDER BY num_drugs_approved ASC
     LIMIT 3;
 
-3. Explore approval trends over the years based on sponsors.
+4. Explore approval trends over the years based on sponsors.
 
    SELECT YEAR(ActionDate) AS approval_year, SponsorApplicant, COUNT(*) AS num_drugs_approved
    FROM regactiondate ra
@@ -64,7 +70,7 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
    GROUP BY approval_year, ap.SponsorApplicant
    ORDER BY approval_year, num_drugs_approved DESC;
 
-4. Rank sponsors based on the total number of approvals they received each year between 1939 and 1960.
+5. Rank sponsors based on the total number of approvals they received each year between 1939 and 1960.
 
    SELECT YEAR(ActionDate) AS approval_year, SponsorApplicant, COUNT(*) AS num_drugs_approved
     FROM regactiondate ra
