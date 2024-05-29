@@ -24,5 +24,6 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 
 ## Data Schema
 
-![Data Schema](https://user-images.githubusercontent.com/12345678/schema.png)
+![image](https://github.com/shishir1991/U.S.-Food-and-Drug-Administration-FDA-SQL-Project/assets/157515610/9047a106-8a42-42f7-9c75-57de0d36a03e)
+
 
