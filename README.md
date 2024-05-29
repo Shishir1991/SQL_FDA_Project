@@ -117,12 +117,25 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 ## Usage
 
 1. Import the SQL scripts into your MySQL database to set up the data.
-2. Open the `FDA_Data_Analysis.pbix` file in Power BI Desktop.
+2. Open the ([FDA_Data_Analysis.pbix](https://github.com/shishir1991/FDA_MySQL_Project/blob/main/SQL%20FDA%20Project/FDA_Data_Analysis.pbix)) file in Power BI Desktop.
 3. Navigate through the different pages of the report to explore various insights:
     - **Approval Trends**: Yearly approval trends of drugs.
     - **Sponsor Trends**: Approval trends based on different sponsors.
     - **MarketingStatus Segmentation**: Segmentation of products based on MarketingStatus.
     - **Dosage Form Analysis**: Distribution and success of different dosage forms.
     - **Therapeutic Classes**: Approvals based on therapeutic classes.
+
+## Screenshots
+
+### Power BI Report
+![Yearly Approval Trends](![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/a0902ede-1b72-4a07-ad83-6a53516ac7ea))
+
+As per the Statistics, the approved drugs are highest in the year 2002 i.e. 5661. The total count of Drugs is 129.07K. From year 1939 to 2016 which includes Both AP and TA ( Tentative Drugs).
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/c56e12b8-2231-46b2-ac53-348bd1de2f66)
+
+![Sponsor Trends](screenshots/sponsor_trends.png)
+![MarketingStatus Segmentation](screenshots/marketingstatus_segmentation.png)
+![Dosage Form Analysis](screenshots/dosage_form_analysis.png)
+![Therapeutic Classes](screenshots/therapeutic_classes.png)
 
 
