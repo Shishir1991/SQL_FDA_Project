@@ -1,4 +1,4 @@
-![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/2da1a4eb-8473-433b-a2b0-62f5696a30de)# SQL Data Analysis and Visualization with Power BI for FDA
+# SQL Data Analysis and Visualization with Power BI for FDA
 
 ## Table of Contents
 - [Description](#description)
