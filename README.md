@@ -128,6 +128,8 @@ The FDA evaluates the safety and efficacy of drugs, biological products, and med
 
 ## Screenshots
 
+![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/87905b1f-2f47-42bf-a344-0582bace7e6d)
+
 ### Power BI Report
 1.
 
@@ -144,7 +146,7 @@ As per the Statistics, the approved drugs are highest in the year 2002 i.e. 5661
 
 3.
 
-![MarketingStatus Segmentation](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/e707c206-77ca-40d6-878c-0a72f3cb7ac7))
+![MarketingStatus Segmentation](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/e707c206-77ca-40d6-878c-0a72f3cb7ac7)
 
 - The visualization shows us the different pharmaceutically equivalent products as per the Market Status.
 - Here the product type AB (10422) and AP(2782) have the highest numbers in Market status 1.
