@@ -137,7 +137,8 @@ As per the Statistics, the approved drugs are highest in the year 2002 i.e. 5661
 
 2.
 
-![Sponsor Trends]![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/58c0b863-ddb6-4627-935b-12a4f7a13d39)
+![Sponsor Trends]![image](https://github.com/shishir1991/FDA_MySQL_Project/assets/157515610/1b6ca5fb-8247-427b-b823-428b4b6fdb57)
+
 
 - According to this visualization, the most reliable and having the highest approvals over many years is WATSON LABS which gives the consistent of 1033 approvals each year followed by another sponsor SANDOZ having 636 approval each year.
 
