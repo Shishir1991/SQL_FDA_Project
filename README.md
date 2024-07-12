@@ -1,4 +1,4 @@
-# SQL Data Analysis and Visualization with Power BI for FDA
+# FDA Data Analysis and Visualization with SQL and Power BI
 
 ## Table of Contents
 - [Description](#description)
