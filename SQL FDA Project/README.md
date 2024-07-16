@@ -1,4 +1,4 @@
-# FDA Products Data Analysis and Visualization with SQL and Power BI
+# U.S. Food and Drug Administration (FDA) Products Data Analysis and Visualization with SQL and Power BI
 
 ## Table of Contents
 - [Description](#description)
